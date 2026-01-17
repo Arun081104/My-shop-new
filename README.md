@@ -63,7 +63,7 @@ button{background:green;color:white;border:none;padding:9px;border-radius:5px;wi
 </div>
 
 <script>
-const ADMIN_PASSWORD = "1234";   // 👉 apna password yaha change karo
+const ADMIN_PASSWORD = "7042173665";   //
 const WHATSAPP_NUMBER = "917042173665";
 
 let products = JSON.parse(localStorage.getItem("products")) || [
